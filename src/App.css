@@ -1,0 +1,53 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: f1f1f1;
+}
+/* .divTodo{
+     background-color: aqua; 
+} */
+
+.tituloDatosPedido{
+    font-size: 25px;
+}
+
+.divTitulo{
+    background-color: #bcbcbc;
+    padding: 3px 0 3px 15px;
+    border-radius: 0 0 10px 10px;
+}
+
+.divTituloEntrega{
+    background-color: #bcbcbc;
+    padding: 4px 0 3px 15px;
+ 
+}
+.nombreOpciones{
+
+    width: 130px;
+}
+
+.opcionTag{
+    padding: 0px 0 0px 15px;
+    font-size: 17px;
+    
+}
+.opcionSelect{
+    width: 200px;
+    height: 40px;
+}
+.inputnumber{
+    width: 200px;
+}
+
+.tabla{
+    width: 100%;
+}
+.tablaHead{
+    background-color: #b8b8b8;
+}
+.divBtn{
+    
+    margin-left: 10px;
+    margin-top: 10px;
+}
